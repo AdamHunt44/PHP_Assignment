@@ -8,4 +8,4 @@
 
 define( 'DB_DATA_SOURCE', 'mysql:host=localhost;dbname= u1653035' );
 define( 'DB_USERNAME', 'U1653035' );
-define( 'DB_PASSWORD', ' ' );
+define( 'DB_PASSWORD', '18jul98' );
